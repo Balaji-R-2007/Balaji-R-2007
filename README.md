@@ -1,5 +1,9 @@
 # Hi, I'm Balaji R! 👋
 
+## My Portfolio :
+
+https://balaji-r-portfolio.netlify.app/
+
 ## 🚀 About Me
 I'm a passionate **Computer Science student** with a focus on **web development**, **AI**, and **software engineering**. Currently, I'm diving into **MERN stack development** and exploring the exciting world of **Artificial Intelligence**. I enjoy experimenting with new technologies and building innovative solutions to real-world problems.
 

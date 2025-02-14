@@ -31,6 +31,8 @@ I'm a passionate **Computer Science student** with a focus on **web development*
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=balaji-r-2007&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balaji-r-2007&" alt="balaji-r-2007" /></p>
+
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balaji-r-640349315/)

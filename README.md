@@ -29,7 +29,11 @@ I'm a passionate **Computer Science student** with a focus on **web development*
 - **AI & Machine Learning**: Enhancing my understanding of machine learning models and applications.
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=balaji-r-2007&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+![](https://github-readme-stats.vercel.app/api?username=balaji-r-2007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=balaji-r-2007&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=balaji-r-2007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balaji-r-2007&" alt="balaji-r-2007" /></p>
 

@@ -28,6 +28,7 @@ I'm a passionate **Computer Science student** with a focus on **web development*
 - **MERN Stack Development**: Building full-stack web applications with MongoDB, Express, React, and Node.js.
 - **AI & Machine Learning**: Enhancing my understanding of machine learning models and applications.
 
+
 ## 📈 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=balaji-r-2007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

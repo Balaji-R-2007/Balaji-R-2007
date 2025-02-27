@@ -36,7 +36,7 @@ I'm a passionate **Computer Science student** with a focus on **web development*
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=balaji-r-2007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balaji-r-2007&" alt="balaji-r-2007" /></p>
+
 
 ## 📫 Connect with Me
 

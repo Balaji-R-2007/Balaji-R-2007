@@ -36,7 +36,8 @@ I'm a passionate **Computer Science student** with a focus on **web development*
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=balaji-r-2007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=balaji-r-2007&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 ## 📫 Connect with Me
 

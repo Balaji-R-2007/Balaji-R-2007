@@ -9,15 +9,20 @@ I'm a passionate **Computer Science student** with a focus on **web development*
 
 ## 💻 Skills & Technologies
 
-### Frontend Development
+
+### Fullstack Development(MERN)
  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)   ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 
-### Backend Development (Currently Learning)
  ![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 
 ### Programming Languages
- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+ ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 
+### Operating system:
+
+- **Linux** -I explored many distros for years and now i finally switched to Arch linux and configured my own desktop.
+
+  
 ### AI & Machine Learning
 - Currently exploring AI concepts and their real-world applications.
 
@@ -25,7 +30,6 @@ I'm a passionate **Computer Science student** with a focus on **web development*
  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 🌱 Currently Learning
-- **MERN Stack Development**: Building full-stack web applications with MongoDB, Express, React, and Node.js.
 - **AI & Machine Learning**: Enhancing my understanding of machine learning models and applications.
 
 
@@ -47,9 +51,9 @@ I'm a passionate **Computer Science student** with a focus on **web development*
 Mail me:balaji648balaji@gmail.com
 
 ## 😄 Fun Facts
-
+- By the way i use Arch linux.
 - I enjoy solving coding challenges and participating in hackathons.
-- In my free time, I experiment with new technologies and explore emerging trends in AI and web development.
+- In my free time, I experiment with new technologies and explore emerging trends.
 
 ---
 

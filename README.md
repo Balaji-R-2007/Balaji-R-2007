@@ -1,5 +1,7 @@
 # Hi, I'm Balaji R! 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=balaji-r-2007&label=Profile%20views&color=0e75b6&style=flat" alt="rkb" /> </p>
+
 ## My Portfolio :
 
 https://balaji-r-portfolio.netlify.app/

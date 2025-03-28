@@ -36,6 +36,8 @@ I'm a passionate **Computer Science student** with a focus on **web development*
 
 ## 📈 GitHub Stats
 
+![🔄 GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=balaji-r-2007&theme=react-dark&hide_border=true&area=true) <hr>
+
 ![](https://github-readme-stats.vercel.app/api?username=balaji-r-2007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=balaji-r-2007&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=balaji-r-2007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)

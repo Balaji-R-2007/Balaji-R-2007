@@ -46,7 +46,7 @@ I'm a passionate **Computer Science student** with a focus on **web development*
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balaji-r-640349315/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balaji-rkb/)
 
 
 Mail me:balaji648balaji@gmail.com

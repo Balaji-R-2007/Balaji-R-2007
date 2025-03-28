@@ -1,5 +1,8 @@
-# Hi, I'm Balaji R! 👋
+<div align="center">
+ 
 
+# Hi, I'm Balaji R! 👋
+</div>
 
 ## My Portfolio :
 
@@ -61,3 +64,4 @@ Mail me:balaji648balaji@gmail.com
 ---
 
 Let's connect and collaborate! 🚀
+</div>

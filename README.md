@@ -4,13 +4,16 @@
 # Hi, I'm Balaji R! 👋
 </div>
 
-## My Portfolio :
 
-https://balaji-r-portfolio.netlify.app/
+> **🔥 Code is my canvas. Innovation is my masterpiece.**
+
+Building tomorrow’s tech, today. Check out my [portfolio](https://balaji-r-portfolio.netlify.app/) to see my latest creations.
+---
 
 ## 🚀 About Me
-I'm a passionate **Computer Science student** with a focus on **web development**, **AI**, and **software engineering**. Currently, I'm diving into **MERN stack development** and exploring the exciting world of **Artificial Intelligence**. I enjoy experimenting with new technologies and building innovative solutions to real-world problems.
+I’m a **Computer Science trailblazer** with a passion for **web development**, **AI innovation**, and transforming complex problems into elegant, life-changing solutions. I don’t just write code—I architect the future, one groundbreaking idea at a time. Whether it’s crafting seamless full-stack apps or diving deep into machine learning, I thrive on pushing boundaries and delivering impact.
 
+---
 ## 💻 Skills & Technologies
 
 
@@ -41,20 +44,16 @@ I'm a passionate **Computer Science student** with a focus on **web development*
 
 ![🔄 GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=balaji-r-2007&theme=react-dark&hide_border=true&area=true) <hr>
 
-![](https://github-readme-stats.vercel.app/api?username=balaji-r-2007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=balaji-r-2007&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=balaji-r-2007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📈 The Numbers Speak
+Here’s a snapshot of my GitHub activity and language mastery:
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=balaji-r-2007&show_icons=true&theme=dark)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balaji-r-2007&layout=compact&theme=dark)  
 
+---
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=balaji-r-2007&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
-## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balaji-rkb/)
-
-
-Mail me:balaji648balaji@gmail.com
 
 ## 😄 Fun Facts
 - By the way i use Arch linux.
@@ -63,5 +62,13 @@ Mail me:balaji648balaji@gmail.com
 
 ---
 
-Let's connect and collaborate! 🚀
+## 🌍 Join My Journey
+I’m all about collaboration and innovation. Let’s build something epic, debate the future of AI, or just geek out over tech. Reach out to me:  
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balaji-rkb/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balaji648balaji@gmail.com)  
+
+The next big idea starts with us!
+
+---
 </div>

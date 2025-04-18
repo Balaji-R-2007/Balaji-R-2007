@@ -40,10 +40,6 @@ I’m a **Computer Science trailblazer** with a passion for **web development**,
 - **AI & Machine Learning**: Enhancing my understanding of machine learning models and applications.
 
 
-## 📈 GitHub Stats
-
-![🔄 GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=balaji-r-2007&theme=react-dark&hide_border=true&area=true) <hr>
-
 ## 📈 The Numbers Speak
 Here’s a snapshot of my GitHub activity and language mastery:
 

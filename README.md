@@ -7,7 +7,7 @@
 
 > **🔥 Code is my canvas. Innovation is my masterpiece.**
 
-Building tomorrow’s tech, today. Check out my [portfolio](https://balaji-r-portfolio.netlify.app/) to see my latest creations.
+Building tomorrow’s tech, today. Check out my [portfolio](https://balajirkb.netlify.app/) to see my latest creations.
 ---
 
 ## 🚀 About Me

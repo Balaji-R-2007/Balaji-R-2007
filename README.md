@@ -43,11 +43,11 @@ I’m a **Computer Science trailblazer** with a passion for **web development**,
 ## 📈 The Numbers Speak
 Here’s a snapshot of my GitHub activity and language mastery:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=balaji-r-2007&show_icons=true&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balaji-r-2007&layout=compact&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=balajirkb&show_icons=true&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balajirkb&layout=compact&theme=dark)  
 
 ---
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=balaji-r-2007&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=balajirkb&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 
 
